@@ -1,0 +1,6 @@
+timestamp,user,action,status,ip
+2025-12-05 10:21:13,admin,login,failed,192.168.1.4
+2025-12-05 10:22:45,root,login,success,10.0.0.15
+2025-12-05 10:23:55,user1,login,failed,192.168.1.4
+2025-12-05 10:24:13,admin,file_access,success,10.0.0.15
+2025-12-05 10:24:44,guest,login,failed,203.0.113.10
