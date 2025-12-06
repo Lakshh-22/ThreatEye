@@ -62,7 +62,8 @@ Report Generation	FPDF
 
 
 
-git clone https://github.com/yourusername/ThreatEye.git
+git clone https://github.com/Lakshh-22/ThreatEye.git
+
 
 cd ThreatEye\_Project
 
